@@ -8,7 +8,7 @@ Simple RESTful API built with ASP.NET Core 2.2 to show how to create RESTful ser
 - [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/) (for data access);
 - [Entity Framework In-Memory Provider](https://docs.microsoft.com/en-us/ef/core/miscellaneous/testing/in-memory) (for testing purposes);
 - [AutoMapper](https://automapper.org/) (for mapping resources and models);
-- [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle) (API documentation).
+
 
 ## How to Test
 
