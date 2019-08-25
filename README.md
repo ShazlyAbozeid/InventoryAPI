@@ -21,8 +21,6 @@ dotnet run
 
 Navigate to ```https://localhost:5001/api/categories``` to check if the API is working. If you see a HTTPS security error, just add an exception to see the results.
 
-Navigate to ```https://localhost:5001/swagger``` to check the API documentation.
-
-![API Documentation](https://raw.githubusercontent.com/evgomes/supermarket-api/master/images/swagger.png)
+ 
 
 To test all endpoints, you'll need to use a software such as [Postman](https://www.getpostman.com/)."# Inventory" 
