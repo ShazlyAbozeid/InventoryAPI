@@ -24,3 +24,4 @@ Navigate to ```https://localhost:5001/api/categories``` to check if the API is w
  
 
 To test all endpoints, you'll need to use a software such as [Postman](https://www.getpostman.com/)."# Inventory" 
+"# repostest" 
